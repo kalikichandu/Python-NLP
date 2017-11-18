@@ -1,7 +1,6 @@
 import pandas as pd
 import string
 import time
-import os
 
 # Method to fecth the city name in JSON Data
 def fetch_city(wordsToFetch):
