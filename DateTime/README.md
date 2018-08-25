@@ -1,4 +1,4 @@
-Python program to idetify the Date Time words in the Input String.
+Python program to identify the Date Time words in the Input String.
 
 Tested Sample Texts are below:
 
